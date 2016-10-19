@@ -1,5 +1,5 @@
 {
   "files": [
-    "public/i18n/i18n-service.js"
+    "./public/i18n/i18n-service.js"
   ]
 }
