@@ -1,20 +1,22 @@
 {
   "name": "allons-y-i18n",
-  "version": "0.1.0",
-  "description": "",
-  "main": "index.js",
+  "version": "1.0.0",
+  "description": "Doing nothing for now.",
+  "license": "MIT",
+  "homepage": "http://allons-y.io",
+  "author": "CodeCorico <hello@codecorico.com>",
+  "bugs": "https://github.com/CodeCorico/allons-y-i18n/issues",
   "repository": {
     "type": "git",
     "url": "https://github.com/CodeCorico/allons-y-i18n.git"
   },
-  "author": "CodeCorico <hello@codecorico.com>",
-  "bugs": {
-    "url": "https://github.com/CodeCorico/allons-y-i18n/issues"
-  },
-  "homepage": "https://github.com/CodeCorico/allons-y-i18n",
   "engines": {
     "node": ">=4.1",
     "npm": ">=3.2"
   },
-  "license": "MIT"
+  "dependencies": {
+    "allons-y-express": "^1.0.0",
+    "allons-y-models": "^1.0.0",
+    "extend": "^3.0.0"
+  }
 }
